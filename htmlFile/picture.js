@@ -1,8 +1,8 @@
 const images =[
-    "/pictures/outgetemp.png",
-    "/pictures/outgetsalary.png",
-    "/pictures/outgetsalarytotal.png",
-    "/pictures/outgetcounloc.png"
+    "/pictures/branch.png",
+    "/pictures/employee.png",
+    "/pictures/dropforeign.png",
+    "/pictures/retrictandcas.png"
 ]
 
 const gallery = document.getElementById("gallery");
